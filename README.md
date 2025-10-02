@@ -7,14 +7,11 @@ This project focuses on **clean layout, modern design, and custom styling** usin
 
 ## 📱 Screenshots
 
-### Anime Details Screen
-![Screen 1](./assets/screen1.png)
-
-### Related Screen
-![Screen 2](./assets/screen2.png)
-
-### Extra UI Screen
-![Screen 3](./assets/screen3.png)
+<p align="center">
+  <img src="./assets/screen1.png" alt="Screen 1" width="30%" />
+  <img src="./assets/screen2.png" alt="Screen 2" width="30%" />
+  <img src="./assets/screen3.png" alt="Screen 3" width="30%" />
+</p>
 
 ---
 
