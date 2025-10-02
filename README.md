@@ -8,13 +8,13 @@ This project focuses on **clean layout, modern design, and custom styling** usin
 ## 📱 Screenshots
 
 ### Anime Details Screen
-![Screen 1](./assets/screens/screen1.png)
+![Screen 1](./assets/screen1.png)
 
 ### Related Screen
-![Screen 2](./assets/screens/screen2.png)
+![Screen 2](./assets/screen2.png)
 
 ### Extra UI Screen
-![Screen 3](./assets/screens/screen3.png)
+![Screen 3](./assets/screen3.png)
 
 ---
 
