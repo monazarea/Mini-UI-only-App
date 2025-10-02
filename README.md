@@ -1,16 +1,42 @@
-# mini_ui_design
+# 🎬 Anime App UI (Flutter)
 
-A new Flutter project.
+A mini **Flutter UI project** that showcases an anime details screen design.  
+This project focuses on **clean layout, modern design, and custom styling** using Flutter widgets.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📱 Screenshots
 
-A few resources to get you started if this is your first Flutter project:
+### Anime Details Screen
+![Screen 1](./assets/screens/screen1.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Related Screen
+![Screen 2](./assets/screens/screen2.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Extra UI Screen
+![Screen 3](./assets/screens/screen3.png)
+
+---
+
+## 🚀 Features
+- 📖 **Anime details page** with poster, title, tags, and description.  
+- 🎨 **Modern and stylish UI** with gradient buttons and card design.  
+- 🔘 Interactive buttons: *Preview* & *Watch Now*.  
+- 🏷️ Genre tags (Action, Adventure, Dark Fantasy).  
+- 📊 Stats section (views, claps, seasons).  
+- 📂 Organized folder structure for scalability.  
+
+---
+
+## 🛠️ Technologies Used
+- **Flutter** (latest stable SDK)  
+- **Dart** for UI logic  
+- **Material Design** components  
+- Custom fonts & styling  
+
+---
+
+## ▶️ How to Run
+1. Clone this repo:
+   ```bash
+   git clone https://github.com/USERNAME/AnimeApp-UI.git
